@@ -2,13 +2,13 @@
 These are instructions for configuring a Surface Pro 11 to dual boot Windows 11
 
 ## What you will need prior to starting
-    - Windows 11 ARM-64 ISO
+- Windows 11 ARM-64 ISO
 
-    - Your bitlocker recovery keys
+- Your bitlocker recovery keys
 
-    - A USB Thumbdrive minimum 32GB
+- A USB Thumbdrive minimum 32GB
     
-    - Surface Pro 11 Drivers from [here](https://www.microsoft.com/en-us/download/details.aspx?id=106119&msockid=3df1bb07c1386c68124baeefc0186dad)
+- Surface Pro 11 Drivers from [here](https://www.microsoft.com/en-us/download/details.aspx?id=106119&msockid=3df1bb07c1386c68124baeefc0186dad)
 
 
 ## Create the recovery drive
